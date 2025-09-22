@@ -1,0 +1,25 @@
+{
+  "name": "YASHRAJ JADHAV",
+  "tagline": "Data Scientist • Analytics Storyteller • ML & Experimentation",
+  "location": "Los Angeles, CA",
+  "email": "yashrajjadhav269@gmail.com",
+  "phone": "(213) 829 1259",
+  "linkedin": "https://www.linkedin.com/in/yashrajjadhav/",
+  "bio": "MSBA @ USC Marshall ('26). Data scientist focused on experimentation, ML, and causal inference. I turn messy data into clear decisions with ML, experimentation, and storytelling.",
+  "yearsExperience": "2+",
+  "coreSkills": ["Python", "SQL", "Machine Learning", "A/B Testing"],
+  "certifications": [
+    {
+      "name": "Databricks Lakehouse Fundamentals",
+      "issuer": "Databricks",
+      "date": "2024"
+    }
+  ],
+  "publications": [
+    {
+      "title": "ML Algorithm based Ration Dispensing System (Raspberry Pi)",
+      "venue": "IEEE ICCUBEA",
+      "year": "2022"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Dr. Sarah Chen",
+    "role": "Senior Data Scientist",
+    "company": "Capgemini",
+    "content": "Yashraj's analytical skills and attention to detail are exceptional. His work on the healthcare readmission prediction model directly contributed to improving patient outcomes.",
+    "rating": 5
+  },
+  {
+    "name": "Michael Rodriguez",
+    "role": "Product Manager",
+    "company": "Healthcare Analytics Inc",
+    "content": "Working with Yashraj was a pleasure. His ability to translate complex data insights into actionable business recommendations is outstanding.",
+    "rating": 5
+  },
+  {
+    "name": "Prof. David Kim",
+    "role": "Professor",
+    "company": "USC Marshall",
+    "content": "Yashraj demonstrates strong technical skills and a deep understanding of machine learning concepts. His projects show both theoretical knowledge and practical application.",
+    "rating": 5
+  }
+]

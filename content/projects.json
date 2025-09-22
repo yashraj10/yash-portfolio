@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Airbnb Booking Demand & Pricing Analytics",
+    "time": "Jan–Mar 2025",
+    "summary": "Predicted nightly prices & booking likelihood (89% accuracy). Segmented demand via clustering; ARIMA/Prophet seasonal forecasts.",
+    "outcome": "89% booking likelihood accuracy",
+    "stack": ["Python", "XGBoost", "ARIMA/Prophet", "Pandas"],
+    "links": ["https://github.com/yashrajjadhav/airbnb-analytics"],
+    "featured": true
+  },
+  {
+    "title": "Uber NYC Pickups EDA & Clustering",
+    "time": "Oct–Dec 2024",
+    "summary": "EDA over 10M+ rows, hypothesis tests & regression; matplotlib visuals; insights on spatiotemporal demand.",
+    "outcome": "10M+ rows analyzed with key insights",
+    "stack": ["Python", "NumPy", "SciPy", "Pandas", "Matplotlib"],
+    "links": ["https://github.com/yashrajjadhav/uber-nyc-analysis"],
+    "featured": true
+  },
+  {
+    "title": "Healthcare Readmission Prediction Model",
+    "time": "Jul–Sep 2024",
+    "summary": "Built RF & XGBoost models on 500K+ patient records to predict readmission risk, enabling targeted interventions.",
+    "outcome": "18% reduction in readmissions",
+    "stack": ["Python", "Scikit-learn", "XGBoost", "Pandas", "Matplotlib"],
+    "links": [],
+    "featured": false
+  },
+  {
+    "title": "Pharmaceutical Trial Data Analysis",
+    "time": "Apr–Jun 2024",
+    "summary": "Analyzed clinical trial data using causal inference and subgroup analysis to guide $4.2M go/no-go decisions.",
+    "outcome": "$4.2M in guided business decisions",
+    "stack": ["Python", "R", "Causal Inference", "Statistical Modeling"],
+    "links": [],
+    "featured": false
+  }
+]

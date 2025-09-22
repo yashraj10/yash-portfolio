@@ -1,0 +1,29 @@
+[
+  {
+    "company": "Capgemini Technology Services",
+    "role": "Data Scientist",
+    "location": "Pune, India",
+    "start": "Jul 2022",
+    "end": "Aug 2024",
+    "bullets": [
+      "Analyzed pharmaceutical trial data (pandas, causal inference, subgroup analysis) → guided $4.2M go/no-go decisions.",
+      "Built RF & XGBoost on 500K+ records → -18% readmissions via operational interventions.",
+      "Unsupervised learning on 2.5TB healthcare data → -23% misdiagnosis; faster planning.",
+      "Power BI dashboards on 1.2M+ records → -15% cost; higher executive adoption.",
+      "Optimized SQL ETL (50K+/day) → +35% ingestion speed; +28% data quality."
+    ],
+    "tags": ["Python", "SQL", "Power BI", "Causal Inference", "ML", "ETL"]
+  },
+  {
+    "company": "Capgemini Technology Services",
+    "role": "Data Science Intern",
+    "location": "Pune, India",
+    "start": "Mar 2022",
+    "end": "Jul 2022",
+    "bullets": [
+      "EDA on 300K+ patient records (SQL/Python) → +22% patient safety.",
+      "Tableau framework for self-serve reporting across 3 units."
+    ],
+    "tags": ["SQL", "Python", "Tableau", "EDA"]
+  }
+]
