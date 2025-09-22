@@ -27,7 +27,7 @@ export default function About() {
             <p className="text-lg leading-relaxed">
               I specialize in turning complex data into actionable insights through advanced analytics, 
               machine learning, and rigorous experimentation. My experience spans healthcare, 
-              pharmaceuticals, and technology, where I've helped organizations make data-driven 
+              pharmaceuticals, and technology, where I&apos;ve helped organizations make data-driven 
               decisions that drive real business impact.
             </p>
           </div>

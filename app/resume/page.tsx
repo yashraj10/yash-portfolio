@@ -1,11 +1,10 @@
 import { getProfile, getExperience, getEducation, getSkills, getProjects } from '@/lib/content'
-import Badge from '@/components/Badge'
 import DownloadButton from '@/components/DownloadButton'
-import { Mail, Phone, MapPin, Linkedin } from 'lucide-react'
+import { Mail, Phone, Linkedin } from 'lucide-react'
 
 export const metadata = {
   title: 'Resume — Yashraj Jadhav',
-  description: 'Download Yashraj Jadhav\'s resume - Data Scientist with expertise in ML, analytics, and experimentation.',
+  description: 'Download Yashraj Jadhav&apos;s resume - Data Scientist with expertise in ML, analytics, and experimentation.',
 }
 
 export default function Resume() {
@@ -70,7 +69,7 @@ export default function Resume() {
             <p className="text-gray-700 dark:text-gray-300 print:text-black leading-relaxed">
               {profile.bio} I specialize in turning complex data into actionable insights through advanced analytics, 
               machine learning, and rigorous experimentation. My experience spans healthcare, pharmaceuticals, 
-              and technology, where I've helped organizations make data-driven decisions that drive real business impact.
+              and technology, where I&apos;ve helped organizations make data-driven decisions that drive real business impact.
             </p>
           </div>
 

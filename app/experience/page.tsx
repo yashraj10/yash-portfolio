@@ -65,7 +65,7 @@ export default function Experience() {
                 IEEE ICCUBEA Publication
               </h3>
               <p className="text-gray-600 dark:text-gray-300 text-sm">
-                "Raspberry Pi ML Ration Dispenser" - Published research on IoT and machine learning applications
+                &quot;Raspberry Pi ML Ration Dispenser&quot; - Published research on IoT and machine learning applications
               </p>
             </div>
           </div>

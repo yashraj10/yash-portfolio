@@ -1,5 +1,5 @@
 import React from 'react';
-import Link from 'next/link';
+;
 import { Mail, Linkedin } from 'lucide-react';
 
 interface FooterProps {

@@ -20,7 +20,7 @@ export default function Contact() {
             Get In Touch
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-300 max-w-3xl">
-            I'm always interested in discussing data science opportunities, 
+            I&apos;m always interested in discussing data science opportunities, 
             collaborations, or answering questions about my work.
           </p>
         </div>
@@ -99,8 +99,8 @@ export default function Contact() {
               
               <div className="mt-8 p-4 bg-gray-50 dark:bg-gray-800 rounded-lg">
                 <p className="text-sm text-gray-600 dark:text-gray-300">
-                  <strong>Privacy Note:</strong> Messages are used only to respond to your inquiry. 
-                  I respect your privacy and won't share your information.
+                <strong>Privacy Note:</strong> Messages are used only to respond to your inquiry. 
+                I respect your privacy and won&apos;t share your information.
                 </p>
               </div>
             </div>

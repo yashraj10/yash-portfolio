@@ -84,7 +84,7 @@ export default function HeroSection() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.8 }}
         >
-          MSBA @ USC Marshall ('26). Data scientist focused on experimentation, ML, and causal inference. 
+          MSBA @ USC Marshall (&apos;26). Data scientist focused on experimentation, ML, and causal inference. 
           I turn messy data into clear decisions with ML, experimentation, and storytelling.
         </motion.p>
 
