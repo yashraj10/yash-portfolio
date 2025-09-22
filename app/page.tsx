@@ -1,7 +1,7 @@
 import { getProfile, getFeaturedProjects, getTestimonials } from '@/lib/content'
 import Section from '@/components/Section'
 import ProjectCard from '@/components/ProjectCard'
-import TestimonialCard from '@/components/TestimonialCard'
+// import TestimonialCard from '@/components/TestimonialCard'
 import Button from '@/components/Button'
 import Badge from '@/components/Badge'
 import { Download, ExternalLink } from 'lucide-react'
@@ -142,7 +142,7 @@ export default function Home() {
       </Section>
 
       {/* Testimonials */}
-      <Section>
+     { /*<Section>
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">
@@ -166,7 +166,7 @@ export default function Home() {
             ))}
           </div>
         </div>
-      </Section>
+      </Section>*/}
     </>
   )
 }
