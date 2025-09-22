@@ -18,15 +18,28 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: 'npm'
-      - run: npm ci --no-audit --no-fund
-      - run: npm run deploy            # this runs "next build" and creates ./out
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+
+      - name: Install deps
+        run: npm ci --no-audit --no-fund
+
+      - name: Build (static export)
+        run: npm run deploy   # runs next build; outputs to ./out
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true     # <-- auto-enable Pages for this repo
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./out
 
